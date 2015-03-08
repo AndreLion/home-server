@@ -1,1 +1,1 @@
-console.log('This is home server');
+console.log('This is home server @',+new Date);
